@@ -288,7 +288,7 @@ main:
 ✅ **Test Coverage**: 16/16 tests passing with zero failures  
 ✅ **Production Quality**: Clean code, comprehensive documentation, extensible design
 
-## 📊 Sample Output
+##  Sample Output
 
 ```
 RISC-V Simulator v1.0
@@ -351,7 +351,7 @@ Tests run: 16, Failures: 0, Errors: 0
 - **[Quick Start Guide](docs/QUICK_START.md)**: Step-by-step setup and usage instructions
 - **[Mentorship Showcase](docs/MENTORSHIP_SHOWCASE.md)**: Project highlights for applications
 
-## 🔧 Development
+##  Development
 
 ### **Adding New Instructions**
 The simulator's modular architecture makes it easy to add new RISC-V extensions:
@@ -374,7 +374,7 @@ Built-in performance monitoring helps identify optimization opportunities:
 - CPI (Cycles Per Instruction) analysis
 - Memory access patterns
 
-## 🏆 Project Highlights
+##  Project Highlights
 
 - ✅ **16/16 test cases passing** with comprehensive validation
 - ✅ **Production-quality implementation** suitable for research and education
@@ -383,11 +383,11 @@ Built-in performance monitoring helps identify optimization opportunities:
 - ✅ **Extensible architecture** for future enhancements
 - ✅ **Performance analytics** for optimization and research
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please read the technical documentation for implementation details and coding standards.
 
