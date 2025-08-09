@@ -1,12 +1,12 @@
-# 🏆 RISC-V CPU Simulator - Mentorship Project Showcase
+#  RISC-V CPU Simulator - Mentorship Project Showcase
 
-## 🎯 Project Overview
+##  Project Overview
 
 **Status: ✅ COMPLETE AND FULLY FUNCTIONAL**
 
 This is a comprehensive RISC-V RV32I CPU simulator with integrated assembler, designed to demonstrate deep expertise in computer architecture, systems programming, and software engineering. The project showcases production-quality code suitable for education, research, and industry applications.
 
-## 🔥 Why This Project Will Get You Selected
+##  Why This Project Will Get You Selected
 
 ### 1. **Technical Depth & Completeness**
 - ✅ Complete RV32I ISA implementation (40+ instructions)
@@ -29,7 +29,7 @@ This is a comprehensive RISC-V RV32I CPU simulator with integrated assembler, de
 - ✅ Execution tracing and performance analysis
 - ✅ Multiple sample programs demonstrating various algorithms
 
-## 🚀 Live Demonstration
+##  Live Demonstration
 
 ### Test Results (Verified Working)
 ```
@@ -55,7 +55,7 @@ I-Cache hit rate: 83.3%
 D-Cache hit rate: 0.0%
 ```
 
-## 📋 Technical Specifications
+##  Technical Specifications
 
 ### Supported Instructions
 - **Arithmetic**: ADD, SUB, ADDI, SLT, SLTU, etc.
@@ -81,7 +81,7 @@ D-Cache hit rate: 0.0%
 - **Documentation** with inline comments and user guides
 - **Extensibility** for adding new features or instructions
 
-## 🎓 Educational & Research Value
+##  Educational & Research Value
 
 ### For Computer Architecture Courses
 - **Hands-on ISA implementation** for deep understanding
@@ -95,7 +95,7 @@ D-Cache hit rate: 0.0%
 - **Cache behavior analysis** for memory hierarchy studies
 - **Branch prediction research** baseline implementation
 
-## 🔧 Quick Start Demo
+##  Quick Start Demo
 
 ```bash
 # 1. Run comprehensive tests
@@ -112,7 +112,7 @@ python src\main.py --debug examples\debug_test.s
 python src\main.py --stats examples\arithmetic.s
 ```
 
-## 🏗️ Technical Architecture
+##  Technical Architecture
 
 ```
 RISC-V CPU Simulator
@@ -140,7 +140,7 @@ RISC-V CPU Simulator
     └── Performance benchmarking
 ```
 
-## 🎯 Project Impact
+##  Project Impact
 
 ### Immediate Value
 - **Portfolio piece** demonstrating systems programming expertise
@@ -154,7 +154,7 @@ RISC-V CPU Simulator
 - **Teaching aid** for computer architecture courses
 - **Open source contribution** to RISC-V ecosystem
 
-## 🏅 Success Metrics
+##  Success Metrics
 
 ✅ **Functionality**: All 16 test cases pass  
 ✅ **Performance**: Sub-second execution for complex programs  
@@ -163,7 +163,7 @@ RISC-V CPU Simulator
 ✅ **Extensibility**: Clean architecture for future enhancements  
 ✅ **Documentation**: Comprehensive guides and examples  
 
-## 💬 Mentorship Connection
+##  Mentorship Connection
 
 This project demonstrates exactly the kind of **deep technical understanding**, **software engineering excellence**, and **research potential** that makes an ideal mentee for the RISC-V "Code Gen: From UDB to Implementations" mentorship program.
 
